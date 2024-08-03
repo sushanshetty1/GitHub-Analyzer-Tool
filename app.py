@@ -17,7 +17,7 @@ def fetch_repo_data(owner, repo):
     url = f'{API_URL}/repos/{owner}/{repo}'
     response = requests.get(url, headers=headers)
     if response.status_code == 404:
-        return None  # Repository not found
+        return None
     return response.json()
 
 
