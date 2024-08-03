@@ -80,8 +80,6 @@ http://localhost:3000
 # Enter the repository owner and name, then click Analyze
 ```
 
-Refer to the [documentation](https://github.com/sushanshetty1/github-analyzer-tool/wiki) for more detailed usage instructions.
-
 ## Contributing
 
 We welcome contributions to *GitHub Analyzer Tool*! If you want to contribute, please follow these guidelines:
@@ -91,8 +89,6 @@ We welcome contributions to *GitHub Analyzer Tool*! If you want to contribute, p
 3. Commit your changes (git commit -am 'Add new feature').
 4. Push to the branch (git push origin feature/your-feature).
 5. Open a Pull Request.
-
-For more details, check our [contributing guidelines](CONTRIBUTING.md).
 
 ## License
 
