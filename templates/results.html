@@ -98,14 +98,12 @@
     <div class="container">
         <h1>Repository Details</h1>
 
-        <!-- Repository Info -->
         <h2>{{ repo_data.name }}</h2>
         <p><strong>Description:</strong> {{ repo_data.description }}</p>
         <p><strong>Language:</strong> {{ repo_data.language }}</p>
         <p><strong>Stars:</strong> {{ repo_data.stargazers_count }}</p>
         <p><strong>Forks:</strong> {{ repo_data.forks_count }}</p>
 
-        <!-- Contributors Table -->
         <h2>Contributors</h2>
         <table>
             <thead>
@@ -124,7 +122,6 @@
             </tbody>
         </table>
 
-        <!-- Recent Commits -->
         <h2>Recent Commits</h2>
         <ul>
             {% for commit in commits %}
@@ -139,7 +136,6 @@
         </div>
         {% endif %}
 
-        <!-- Back Button -->
         <a href="/" class="back-button">Back to Home</a>
     </div>
 
