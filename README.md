@@ -7,8 +7,8 @@
 Welcome to *GitHub Analyzer Tool*! This powerful tool allows you to analyze GitHub repositories with ease, providing insights into repository statistics, contributors, and more.
 
 <p align="center">
-  <img src="homepage.png" alt="Screenshot of Home Page" width="80%" />
-  <img src="resultpage.png" alt="Screenshot of Results Page" width="80%" />
+  <img src="wepage_pic/homepage.png" alt="Screenshot of Home Page" width="80%" />
+  <img src="wepage_pic/resultpage.png" alt="Screenshot of Results Page" width="80%" />
 </p>
 
 ## Table of Contents
