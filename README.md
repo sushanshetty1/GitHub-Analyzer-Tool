@@ -113,6 +113,6 @@ Thank you for visiting *GitHub Analyzer Tool*! We hope you find it useful and lo
 - *Alignment*: Properly align text and images for a clean look.
 - *Whitespace*: Use whitespace effectively to avoid clutter.
 
-### Credits
+### Credits - For Design
 
 The UI/UX design of this project was inspired by components from [uiverse.io](https://uiverse.io/).
